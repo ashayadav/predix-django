@@ -1,0 +1,7 @@
+1. Uninstall Node from Programs and Features
+2. Download Node Version 7.10.0 
+	-> 64-bit: https://nodejs.org/download/release/v7.10.0/node-v7.10.0-x64.msi
+    -> 32-bit: https://nodejs.org/download/release/v7.10.0/node-v7.10.0-x86.msi
+3. Run installer
+4. Verify version
+	-> node -v

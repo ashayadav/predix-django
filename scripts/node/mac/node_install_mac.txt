@@ -1,0 +1,5 @@
+1. sudo npm install n -g
+2. sudo n 7.10.0
+3. sudo npm install -f npm@4.2.0 -g
+4. Check version
+	-> node -v
