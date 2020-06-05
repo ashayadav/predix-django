@@ -1,4 +1,4 @@
-Django==1.11
+Django==1.11.29
 django-allauth==0.32.0
 djangorestframework==3.6.2
 pprint==0.1
